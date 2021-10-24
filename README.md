@@ -12,6 +12,6 @@ If you'd like to edit these or make some your own, I suggest using [OpenFunscrip
 # Current Scripts
 Airlock 1080p - Should work with other versions of the video, but this 
 was made with the 1080p version, which is available on Zonkpunch's patreon.
-E621: https://e621.net/posts/2848682
+[E621 version](https://e621.net/posts/2848682)
 
 There will be more in the future.
