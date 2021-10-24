@@ -1,7 +1,7 @@
 # funscripts-furry
 Some .funscripts for furry porn I made.
 
-These files are intended to be played with [ScriptPlayer](https://github.com/FredTungsten/ScriptPlayer) and the original video.  Other versions of the videos listed may work as well.
+These files are intended to be played with [ScriptPlayer](https://github.com/FredTungsten/ScriptPlayer) and the original video.  Other versions of the videos listed may work as well, but I can guarantee the original will work.  I wont provide videos since some videos I may make funscripts for are uploaded to Patreon.  If its not, Ill link it down below.
 
 You can suggest videos to do through my Discord or through the issue page.  I wont do anything extreme, (scat, gore, waterfall, vore, etc.,) but anything outside of the extreme stuff Ill probably do.
 
