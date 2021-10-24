@@ -14,4 +14,4 @@ Airlock 1080p - Should work with other versions of the video, but this
 was made with the 1080p version, which is available on Zonkpunch's patreon.
 E621: https://e621.net/posts/2848682
 
-Plan on uploading more as I make them.
+There will be more in the future.
