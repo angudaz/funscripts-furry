@@ -1,7 +1,7 @@
 # funscripts-furry
 Some .funscripts for furry porn I made.
 
-These files are intended to be played with ScriptPlayer and the original video.
+These files are intended to be played with [ScriptPlayer](https://github.com/FredTungsten/ScriptPlayer) and the original video.  Other versions of the videos listed may work as well.
 
 You can suggest videos to do through my Discord or through the issue page.
 
