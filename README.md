@@ -7,7 +7,7 @@ You can suggest videos to do through my Discord or through the issue page.  I wo
 
 Discord: hs0j#5084
 
-If you'd like to edit these or make some your own, I suggest using [OpenFunscripter](https://github.com/OpenFunscripter/OFS).  I learned how to use it in the matter of minutes.  Dont really care if you credit me or not since I made these with the soul purpose of wanting to.  There was barely any that existed and the only site that had them went offline.
+If you'd like to edit these or make some your own, I suggest using [OpenFunscripter](https://github.com/OpenFunscripter/OFS).  I learned how to use it in the matter of minutes.  All the projects I make using OpenFunscripter will be put in the projects folder.  Dont really care if you credit me or not since I made these with the soul purpose of wanting to.  There was barely any that existed and the only site that had them went offline.  Dont know who the one dude was that made them, but all his scripts are now gone.
 
 # Current Scripts
 Airlock 1080p - Should work with other versions of the video, but this 
